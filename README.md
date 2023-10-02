@@ -114,7 +114,6 @@ Zettlr ships with a lot of features helpful in writing markdown. It is especiall
 
 [The code resides on GitHub](https://github.com/Zettlr/Zettlr)
 
-
 [**GhostWriter**](https://github.com/wereturtle/ghostwriter) (FREE, open source)
 
 GhostWriter is a simple and light markdown editor. It use double screen: the left screen is the editor, and the right screen show the rendered file. Allows many different syntax: GitHub, Sundown, pandoc, common mark, multimarkdown, php markdown extra, and strict. The right screen will shows the file rendered using the selected syntax.
@@ -129,6 +128,9 @@ The interface is translated to many languages, as spanish, german or portuguese.
 
 Znote is a free, elegant program meant to help you write beautifully organized Markdown documents. You can organize your texts, notes, and files even better, using the simplistic left-side widget organizer for smoothly navigating different files.
 
+[**Inkdrop**](https://www.inkdrop.app/) ($4.99, 30-day trial)
+
+Inkdrop is a versatile note-taking and knowledge management application designed for developers, creatives, and professionals. Known for its simplicity and powerful features, Inkdrop provides a seamless platform for organizing and syncing notes, code snippets, and markdown documents across multiple devices. With Markdown support, code highlighting, and a distraction-free interface, it caters to technical users, while also offering customization through plugins and themes. To improve security of your data you can also run Inkdrop locally on your server or run completely offline.
 
 ### Linux
 
